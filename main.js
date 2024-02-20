@@ -1,1 +1,8 @@
-alert("sua mae enormossauro")
+function mudarCorTexto(){
+    alert("YEAH BUDDY")
+
+
+
+
+
+}
