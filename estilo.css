@@ -4,7 +4,12 @@ body {
     background: linear-gradient(90deg, rgba(219, 239, 241, 0.658) 0%, rgba(220,249,255,1) 100%, rgba(255,255,255,1) 100%, rgba(0,212,255,1) 100%);
 }
 
-.teste1{
+.texto1 {
+    display: flex;
+    justify-content: center;
+} 
+
+.teste1 {
 display: flex;
 justify-content: center;
 }
