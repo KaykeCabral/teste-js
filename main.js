@@ -4,7 +4,6 @@ function mudarCorTexto(){
 }
 
 function mudarCorFundo(){
-    alert("kaykao")
     document.querySelector("#p1").style.background= "black"
 
 }
