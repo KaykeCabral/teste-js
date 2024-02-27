@@ -10,6 +10,5 @@ function mudarCorFundo(){
 function alterarTexto(){
     document.querySelector("#textinput").value
 
-    document.querySelector("#texto2").innerHTML
-    =textForm
+    document.querySelector("#texto2").innerHTML=textForm
 }
